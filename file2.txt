@@ -1,0 +1,3 @@
+line 1 updated in file2 in commit4 of story.
+
+line2 added in file2 in commit 2
